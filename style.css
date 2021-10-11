@@ -34,7 +34,7 @@ nav ul li a {
   margin-top: 50px;
 }
 nav ul li a:hover {
-    color: white
+    color: white;
 }
 .strapline-container {
   width: 100%;
@@ -396,17 +396,17 @@ nav ul li a:hover {
 }
 .left-box5 {
   height: 650px;
-  width: 700px;
+  width: 550px;
   background-color: rgba(22, 40, 92, 0.54);
 }
 .middle-box5 {
   height: 650px;
-  width: 700px;
+  width: 550px;
   background-color: rgba(3, 10, 32, 0.79);
 }
 .right-box5 {
   height: 650px;
-  width: 700px;
+  width: 550px;
   background-color: rgba(22, 40, 92, 0.54);
 }
 .fitness1 {
